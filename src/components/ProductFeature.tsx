@@ -37,21 +37,29 @@ export default function ProductFeature() {
 						alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-01.jpg"
 						className="rounded-lg bg-gray-100"
+						width={640}
+						height={640}
 					/>
 					<Image
 						alt="Top down view of walnut card tray with embedded magnets and card groove."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-02.jpg"
 						className="rounded-lg bg-gray-100"
+						width={640}
+						height={640}
 					/>
 					<Image
 						alt="Side of walnut card tray with card groove and recessed card area."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-03.jpg"
 						className="rounded-lg bg-gray-100"
+						width={640}
+						height={640}
 					/>
 					<Image
 						alt="Walnut card tray filled with cards and card angled in dedicated groove."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-04.jpg"
 						className="rounded-lg bg-gray-100"
+						width={640}
+						height={640}
 					/>
 				</div>
 			</div>

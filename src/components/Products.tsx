@@ -53,6 +53,8 @@ export default function Products() {
 								alt={product.imageAlt}
 								src={product.imageSrc}
 								className="aspect-square w-full rounded-md bg-gray-200 object-cover group-hover:opacity-75 lg:aspect-auto lg:h-80"
+								width={3200}
+								height={3200}
 							/>
 							<div className="mt-4 flex justify-between">
 								<div>

@@ -11,7 +11,7 @@ export default function ShopCollections() {
 						</h1>
 						<p className="mt-4 text-xl text-gray-500">
 							This year, our new summer collection will shelter you from the harsh elements of a world
-							that doesn't care if you live or die.
+							that doesn&apos;t care if you live or die.
 						</p>
 					</div>
 					<div>
@@ -29,6 +29,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
@@ -36,6 +38,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 										</div>
@@ -45,6 +49,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
@@ -52,6 +58,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
@@ -59,6 +67,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 										</div>
@@ -68,6 +78,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
@@ -75,6 +87,8 @@ export default function ShopCollections() {
 													alt=""
 													src="https://tailwindcss.com/plus-assets/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
 													className="size-full object-cover"
+													width={1760}
+													height={1760}
 												/>
 											</div>
 										</div>
