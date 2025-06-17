@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 const features = [
 	{ name: 'Origin', description: 'Designed by Good Goods, Inc.' },
 	{ name: 'Material', description: 'Solid walnut base with rare earth magnets and powder coated steel card cover' },
@@ -31,22 +33,22 @@ export default function ProductFeature() {
 					</dl>
 				</div>
 				<div className="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
-					<img
+					<Image
 						alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-01.jpg"
 						className="rounded-lg bg-gray-100"
 					/>
-					<img
+					<Image
 						alt="Top down view of walnut card tray with embedded magnets and card groove."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-02.jpg"
 						className="rounded-lg bg-gray-100"
 					/>
-					<img
+					<Image
 						alt="Side of walnut card tray with card groove and recessed card area."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-03.jpg"
 						className="rounded-lg bg-gray-100"
 					/>
-					<img
+					<Image
 						alt="Walnut card tray filled with cards and card angled in dedicated groove."
 						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-03-detail-04.jpg"
 						className="rounded-lg bg-gray-100"
